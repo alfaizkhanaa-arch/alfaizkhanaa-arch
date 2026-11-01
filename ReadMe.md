@@ -1,0 +1,18 @@
+# 💫 About Me:
+I am a final-year B.Tech Data Science student at Bhilai Institute of Technology (BIT), Durg, with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, and Large Language Models (LLMs).<br><br>I have a Diploma in Computer Science Engineering and practical experience working with Python, Machine Learning, Deep Learning, LangChain, RAG (Retrieval-Augmented Generation), Vector Databases, and LLM-based applications.<br><br>Currently, I am expanding my knowledge of advanced RAG techniques, Graph Databases (Neo4j), LangChain, and AI application development. I enjoy building practical AI projects, solving real-world problems, and continuously learning new technologies.<br><br>My career goal is to become an AI/LLM Engineer and contribute to developing intelligent, scalable, and impactful AI solutions.<br><br>Technical Skills<br>- Programming: Python, SQL<br>- AI/ML: Machine Learning, Deep Learning, NLP<br>- Generative AI: LLMs, LangChain, RAG, Prompt Engineering<br>- Vector Databases: FAISS, ChromaDB<br>- Graph Database: Neo4j (Learning)<br>- Frameworks: Streamlit, FastAPI (Learning)<br>- Tools: Git, GitHub, VS Code<br>Projects<br>- Medical Report Analyzer using RAG<br>- Job Description Analyzer<br>- Recipe Finder Chatbot<br>- Spotify Data Analytics Dashboard<br>Personal Strengths<br>- Quick Learner<br>- Problem Solver<br>- Hardworking and Dedicated<br>- Interested in Continuous Learning<br>Career Objective: To start my career as an AI Engineer, Generative AI Engineer, or LLM Engineer and build production-ready AI applications.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alfaiz-khan-9b6299375/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfaizkhanaa@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alfaizkhanaa-arch&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=alfaizkhanaa-arch&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alfaizkhanaa-arch&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=alfaizkhanaa-arch&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
